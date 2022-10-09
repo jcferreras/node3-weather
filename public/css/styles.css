@@ -1,0 +1,17 @@
+h1 {
+  color: #06283d;
+}
+
+.portrait {
+  height: 200px;
+  width: 200px;
+}
+
+body {
+  font-family: arial;
+  font-size: 30px;
+  color: #06283d;
+  margin: 0 auto;
+  padding: 0 16px;
+  max-width: 650px;
+}
